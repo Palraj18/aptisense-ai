@@ -54,7 +54,7 @@ export default function HomePage({ onNavigate }) {
     let mounted = true;
     (async () => {
       try {
-        const resp = await fetch((import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000') + '/api/v1/analytics/summary');
+        const resp = await fetch((import.meta.env.VITE_API_URL || 'https://aptisense-backend.onrender.com') + '/api/v1/analytics/summary');
         if (!mounted) return;
         if (!resp.ok) return;
         const data = await resp.json();
