@@ -1,0 +1,104 @@
+{
+  "session_id": "ca71ad96-9630-4378-8f48-066085abf3f6",
+  "interview_type": "technical",
+  "position": "Backend Engineer",
+  "experience_level": "mid",
+  "start_time": "2026-05-19T15:47:52.370957",
+  "end_time": null,
+  "duration_minutes": 0.25531185,
+  "interview_state": "in_progress",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "101",
+      "question": "Explain the difference between stack and queue.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T15:47:52.370957",
+      "is_follow_up": false
+    },
+    {
+      "index": 1,
+      "question_id": "101_followup_0",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T15:48:07.685347",
+      "is_follow_up": true,
+      "parent_question_id": "101"
+    }
+  ],
+  "answer_history": [
+    {
+      "answer_index": 0,
+      "question_id": "101",
+      "answer": "A stack uses LIFO - Last In First Out. You push items on top and pop from the top. A queue uses FIFO - First In First Out. You enqueue at the back and dequeue from the front.",
+      "answered_at": "2026-05-19T15:48:00.213963",
+      "evaluation": {
+        "timestamp": "2026-05-19T15:48:00.213963",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 60,
+          "confidence": 55,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": true,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": true
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided"
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 60,
+        "confidence_score": 55,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": true,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": true,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    }
+  ],
+  "memory_summary": {
+    "total_exchanges": 1,
+    "strengths": [
+      "Provided a response"
+    ],
+    "weaknesses": [
+      "Could add more detail"
+    ],
+    "conversation_theme": "general",
+    "average_answer_length": 38.0
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Arrays - Given the array [5, 2, 9, 1, 7], what is the second largest distinct element?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "The largest element is 9. The second largest distinct element is 7."
+  },
+  {
+    "id": 2,
+    "question": "Strings - A simple palindrome check is run on the string 'level'. What will the function return?",
+    "options": [
+      "True",
+      "False",
+      "0",
+      "-1"
+    ],
+    "answer": "True",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "The string 'level' reads the same from left to right and right to left, so it is a palindrome."
+  },
+  {
+    "id": 3,
+    "question": "Hashing / Maps - Which data structure is best suited to count the frequency of elements in an array in a single pass?",
+    "options": [
+      "Stack",
+      "Queue",
+      "HashMap",
+      "Linked List"
+    ],
+    "answer": "HashMap",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "A HashMap lets you update and look up counts quickly, making it ideal for frequency counting in one pass."
+  },
+  {
+    "id": 4,
+    "question": "Recursion - What is the output of a recursive function that returns n + solve(n - 1) with base case solve(0) = 0 for n = 4?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "10",
+    "difficulty": "Easy",
+    "company": "Accenture",
+    "explanation": "The function computes 4 + 3 + 2 + 1 + 0, which equals 10."
+  },
+  {
+    "id": 5,
+    "question": "Pattern-Based Coding - A nested loop prints a right triangle pattern with 1 star in the first row, 2 stars in the second row, 3 stars in the third row and 4 stars in the fourth row. How many stars are printed in total?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "10",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The total number of stars is 1 + 2 + 3 + 4 = 10."
+  }
+]

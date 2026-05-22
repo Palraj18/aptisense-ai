@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "A shopkeeper buys a mixer for Rs.800 and marks it 25% above cost price. He gives a 10% discount on the marked price. What is his profit percentage?",
+    "options": [
+      "10%",
+      "12.5%",
+      "15%",
+      "20%"
+    ],
+    "answer": "12.5%",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Marked price = Rs.800 + 25% of Rs.800 = Rs.1000. Selling price after 10% discount = Rs.900. Profit = Rs.900 - Rs.800 = Rs.100, so profit percentage = (100 / 800) x 100 = 12.5%."
+  },
+  {
+    "id": 2,
+    "question": "A can complete a task in 10 days and B can complete the same task in 15 days. If they work together, in how many days will they finish the task?",
+    "options": [
+      "5 days",
+      "6 days",
+      "7 days",
+      "8 days"
+    ],
+    "answer": "6 days",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "A's work rate is 1/10 per day and B's rate is 1/15 per day. Together, they complete 1/10 + 1/15 = 1/6 of the work per day. So the task is finished in 6 days."
+  },
+  {
+    "id": 3,
+    "question": "A train travels 180 km in 3 hours at a constant speed. How far will it travel in 5 hours at the same speed?",
+    "options": [
+      "250 km",
+      "280 km",
+      "300 km",
+      "320 km"
+    ],
+    "answer": "300 km",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "Speed = 180 / 3 = 60 km/h. In 5 hours, distance = 60 x 5 = 300 km."
+  },
+  {
+    "id": 4,
+    "question": "The ratio of boys to girls in a class is 3:2. If there are 18 boys, how many students are there in the class?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "36"
+    ],
+    "answer": "30",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "If boys : girls = 3 : 2 and boys = 18, then 1 part = 6. Girls = 2 x 6 = 12. Total students = 18 + 12 = 30."
+  },
+  {
+    "id": 5,
+    "question": "What is the probability of getting exactly one head when two fair coins are tossed?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "answer": "1/2",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "The possible outcomes are HH, HT, TH, and TT. Exactly one head occurs in HT and TH, so the probability is 2/4 = 1/2."
+  },
+  {
+    "id": 6,
+    "question": "The average of 5 numbers is 24. If one number 30 is removed, what is the average of the remaining 4 numbers?",
+    "options": [
+      "21.5",
+      "22",
+      "22.5",
+      "23"
+    ],
+    "answer": "22.5",
+    "difficulty": "Easy",
+    "company": "Accenture",
+    "explanation": "Total of 5 numbers = 5 x 24 = 120. After removing 30, remaining total = 90. Average of remaining 4 numbers = 90 / 4 = 22.5."
+  }
+]

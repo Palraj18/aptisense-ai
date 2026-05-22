@@ -1,0 +1,48 @@
+{
+  "session_id": "b2acb4c0-2abb-44c8-be22-05072cc8f1cc",
+  "interview_type": "communication",
+  "position": "Communication Practice",
+  "experience_level": "mid",
+  "start_time": "2026-05-19T21:48:48.453088",
+  "end_time": "2026-05-19T21:48:58.722048",
+  "duration_minutes": 0.17114933333333332,
+  "interview_state": "completed",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "401",
+      "question": "Explain a complex idea to a non-technical stakeholder.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T21:48:48.453088",
+      "is_follow_up": false
+    }
+  ],
+  "answer_history": [],
+  "memory_summary": {
+    "total_exchanges": 0,
+    "strengths": [],
+    "weaknesses": [],
+    "conversation_theme": "general",
+    "average_answer_length": 0
+  },
+  "proctoring": {
+    "session_id": "b2acb4c0-2abb-44c8-be22-05072cc8f1cc",
+    "total_frames_analyzed": 0,
+    "frames_with_valid_face": 0,
+    "face_presence_ratio": 0,
+    "total_looking_away_duration_seconds": 0,
+    "max_looking_away_duration_seconds": 0,
+    "average_looking_away_duration_seconds": 0,
+    "looking_away_count": 0,
+    "suspicious_events_count": 0,
+    "total_events_logged": 0,
+    "average_cheating_probability": 0,
+    "face_score": 0,
+    "suspicion_score": 100,
+    "integrity_score": 50,
+    "risk_level": "unknown",
+    "flagged_for_review": true,
+    "event_timeline": []
+  }
+}

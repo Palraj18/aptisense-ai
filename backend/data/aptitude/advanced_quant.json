@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "The sales of four branches in a week were 120, 150, 180 and 210 units. What is the average sales per branch?",
+    "options": [
+      "150",
+      "160",
+      "165",
+      "170"
+    ],
+    "answer": "165",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Total sales = 120 + 150 + 180 + 210 = 660. Average = 660 / 4 = 165."
+  },
+  {
+    "id": 2,
+    "question": "A salary increases from Rs.20,000 to Rs.22,000. What is the percentage increase?",
+    "options": [
+      "8%",
+      "9%",
+      "10%",
+      "12%"
+    ],
+    "answer": "10%",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "Increase = Rs.2,000. Percentage increase = (2,000 / 20,000) x 100 = 10%."
+  },
+  {
+    "id": 3,
+    "question": "A product has a marked price of Rs.1200. A 20% discount is given, and then an additional 5% discount is applied on the reduced price. What is the final selling price?",
+    "options": [
+      "Rs.900",
+      "Rs.912",
+      "Rs.924",
+      "Rs.936"
+    ],
+    "answer": "Rs.912",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "After 20% discount, price = 1200 x 0.8 = 960. After an extra 5% discount, final price = 960 x 0.95 = 912."
+  },
+  {
+    "id": 4,
+    "question": "Pipe A can fill a tank in 12 hours and Pipe B can fill the same tank in 18 hours. If both pipes are opened together, how long will they take to fill the tank?",
+    "options": [
+      "6 hours",
+      "7.2 hours",
+      "8 hours",
+      "9 hours"
+    ],
+    "answer": "7.2 hours",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "Combined rate = 1/12 + 1/18 = 5/36 tank per hour. Time required = 36/5 = 7.2 hours."
+  },
+  {
+    "id": 5,
+    "question": "Two numbers are in the ratio 4:5 and their sum is 54. What is the larger number?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": "30",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "If the numbers are 4x and 5x, then 4x + 5x = 54, so 9x = 54 and x = 6. The larger number is 5x = 30."
+  }
+]

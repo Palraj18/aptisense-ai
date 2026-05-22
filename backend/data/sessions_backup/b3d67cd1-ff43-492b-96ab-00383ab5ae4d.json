@@ -1,0 +1,132 @@
+{
+  "session_id": "b3d67cd1-ff43-492b-96ab-00383ab5ae4d",
+  "interview_type": "hr",
+  "position": "HR Round",
+  "experience_level": "mid",
+  "start_time": "2026-05-18T20:57:18.101823",
+  "end_time": null,
+  "duration_minutes": 0.34680215000000003,
+  "interview_state": "in_progress",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "1",
+      "question": "Tell me about yourself.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-18T20:57:18.101823",
+      "is_follow_up": false
+    },
+    {
+      "index": 1,
+      "question_id": "1_followup_0",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-18T20:57:38.906841",
+      "is_follow_up": true,
+      "parent_question_id": "1"
+    }
+  ],
+  "answer_history": [
+    {
+      "answer_index": 0,
+      "question_id": "1",
+      "answer": "i am saimeen",
+      "answered_at": "2026-05-18T20:57:38.606523",
+      "evaluation": {
+        "timestamp": "2026-05-18T20:57:38.606523",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 32,
+          "backspace_count": 0,
+          "total_time_seconds": 6,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    }
+  ],
+  "memory_summary": {
+    "total_exchanges": 1,
+    "strengths": [
+      "Provided a response"
+    ],
+    "weaknesses": [
+      "Could add more detail"
+    ],
+    "conversation_theme": "general",
+    "average_answer_length": 3.0
+  },
+  "proctoring": {
+    "session_id": "b3d67cd1-ff43-492b-96ab-00383ab5ae4d",
+    "total_frames_analyzed": 0,
+    "frames_with_valid_face": 0,
+    "face_presence_ratio": 0,
+    "total_looking_away_duration_seconds": 0,
+    "max_looking_away_duration_seconds": 0,
+    "average_looking_away_duration_seconds": 0,
+    "looking_away_count": 0,
+    "suspicious_events_count": 0,
+    "total_events_logged": 0,
+    "average_cheating_probability": 0,
+    "face_score": 0,
+    "suspicion_score": 100,
+    "integrity_score": 50,
+    "risk_level": "unknown",
+    "flagged_for_review": true,
+    "event_timeline": []
+  }
+}

@@ -1,0 +1,2548 @@
+{
+  "sessions": {
+    "session-1778271390738": {
+      "sessionId": "session-1778271390738",
+      "topic": "Data Structures",
+      "userId": "guest",
+      "startedAt": "2026-05-08T20:16:33.967188+00:00"
+    },
+    "session-1778273515480": {
+      "sessionId": "session-1778273515480",
+      "topic": "Arrays",
+      "userId": "guest",
+      "startedAt": "2026-05-08T20:57:10.188955+00:00"
+    },
+    "session-1778274270431": {
+      "sessionId": "session-1778274270431",
+      "topic": "Arrays",
+      "userId": "guest",
+      "startedAt": "2026-05-08T21:04:43.511845+00:00"
+    },
+    "session-1778275000322": {
+      "sessionId": "session-1778275000322",
+      "topic": "Operating Systems",
+      "userId": "guest",
+      "startedAt": "2026-05-08T21:17:24.692759+00:00"
+    },
+    "session-1778478730291": {
+      "sessionId": "session-1778478730291",
+      "topic": "Arrays",
+      "userId": "guest",
+      "startedAt": "2026-05-11T05:52:52.982160+00:00"
+    }
+  },
+  "behaviors": {
+    "session-1778271390738": {
+      "sessionId": "session-1778271390738",
+      "topic": "Data Structures",
+      "features": {
+        "typingSpeedWpm": 18.11,
+        "averagePauseMs": 623.68,
+        "backspaceRate": 0.063,
+        "rewriteFrequency": 0.059,
+        "focusScore": 1,
+        "hesitationIndex": 0.626,
+        "confidenceScore": 1,
+        "struggleScore": 0.042,
+        "quizScore": 0
+      },
+      "records": [
+        {
+          "elapsedMs": 7396,
+          "pauseMs": 7396,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:38.134Z"
+        },
+        {
+          "elapsedMs": 7968,
+          "pauseMs": 572,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:38.706Z"
+        },
+        {
+          "elapsedMs": 9650,
+          "pauseMs": 1682,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:40.388Z"
+        },
+        {
+          "elapsedMs": 9828,
+          "pauseMs": 178,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:40.567Z"
+        },
+        {
+          "elapsedMs": 10065,
+          "pauseMs": 237,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:40.803Z"
+        },
+        {
+          "elapsedMs": 10266,
+          "pauseMs": 201,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:41.004Z"
+        },
+        {
+          "elapsedMs": 10458,
+          "pauseMs": 192,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:41.196Z"
+        },
+        {
+          "elapsedMs": 10900,
+          "pauseMs": 442,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:41.638Z"
+        },
+        {
+          "elapsedMs": 11115,
+          "pauseMs": 215,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:41.853Z"
+        },
+        {
+          "elapsedMs": 11398,
+          "pauseMs": 283,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:42.136Z"
+        },
+        {
+          "elapsedMs": 11748,
+          "pauseMs": 350,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:42.486Z"
+        },
+        {
+          "elapsedMs": 12070,
+          "pauseMs": 322,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:42.808Z"
+        },
+        {
+          "elapsedMs": 13185,
+          "pauseMs": 1115,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:43.923Z"
+        },
+        {
+          "elapsedMs": 13814,
+          "pauseMs": 629,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:44.552Z"
+        },
+        {
+          "elapsedMs": 14914,
+          "pauseMs": 1100,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:45.652Z"
+        },
+        {
+          "elapsedMs": 15425,
+          "pauseMs": 511,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:46.163Z"
+        },
+        {
+          "elapsedMs": 15837,
+          "pauseMs": 412,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:46.575Z"
+        },
+        {
+          "elapsedMs": 16119,
+          "pauseMs": 282,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:46.857Z"
+        },
+        {
+          "elapsedMs": 16363,
+          "pauseMs": 244,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:47.101Z"
+        },
+        {
+          "elapsedMs": 17587,
+          "pauseMs": 1224,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:48.325Z"
+        },
+        {
+          "elapsedMs": 17889,
+          "pauseMs": 302,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:48.627Z"
+        },
+        {
+          "elapsedMs": 18122,
+          "pauseMs": 233,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:48.860Z"
+        },
+        {
+          "elapsedMs": 18277,
+          "pauseMs": 155,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:49.015Z"
+        },
+        {
+          "elapsedMs": 18466,
+          "pauseMs": 189,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:49.204Z"
+        },
+        {
+          "elapsedMs": 18600,
+          "pauseMs": 134,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:49.338Z"
+        },
+        {
+          "elapsedMs": 18823,
+          "pauseMs": 223,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:49.561Z"
+        },
+        {
+          "elapsedMs": 19190,
+          "pauseMs": 367,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:49.928Z"
+        },
+        {
+          "elapsedMs": 19380,
+          "pauseMs": 190,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:50.118Z"
+        },
+        {
+          "elapsedMs": 19602,
+          "pauseMs": 222,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:50.340Z"
+        },
+        {
+          "elapsedMs": 19999,
+          "pauseMs": 397,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:50.737Z"
+        },
+        {
+          "elapsedMs": 20188,
+          "pauseMs": 189,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:50.926Z"
+        },
+        {
+          "elapsedMs": 20340,
+          "pauseMs": 152,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:51.078Z"
+        },
+        {
+          "elapsedMs": 20581,
+          "pauseMs": 241,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:51.319Z"
+        },
+        {
+          "elapsedMs": 21205,
+          "pauseMs": 624,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:16:51.943Z"
+        }
+      ],
+      "updatedAt": "2026-05-08T20:17:02.615903+00:00"
+    },
+    "session-1778273515480": {
+      "sessionId": "session-1778273515480",
+      "topic": "DBMS Normalization",
+      "features": {
+        "typingSpeedWpm": 4.41,
+        "averagePauseMs": 2629.73,
+        "backspaceRate": 0.034,
+        "rewriteFrequency": 0.033,
+        "focusScore": 1,
+        "hesitationIndex": 1.714,
+        "confidenceScore": 0.772,
+        "struggleScore": 0.023,
+        "quizScore": 33
+      },
+      "records": [
+        {
+          "elapsedMs": 66629,
+          "pauseMs": 66629,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:02.109Z"
+        },
+        {
+          "elapsedMs": 66927,
+          "pauseMs": 298,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:02.407Z"
+        },
+        {
+          "elapsedMs": 67205,
+          "pauseMs": 278,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:02.685Z"
+        },
+        {
+          "elapsedMs": 67333,
+          "pauseMs": 128,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:02.813Z"
+        },
+        {
+          "elapsedMs": 67580,
+          "pauseMs": 247,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:03.060Z"
+        },
+        {
+          "elapsedMs": 68171,
+          "pauseMs": 591,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:03.651Z"
+        },
+        {
+          "elapsedMs": 68385,
+          "pauseMs": 214,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:03.865Z"
+        },
+        {
+          "elapsedMs": 69027,
+          "pauseMs": 642,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:04.507Z"
+        },
+        {
+          "elapsedMs": 69188,
+          "pauseMs": 161,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:04.668Z"
+        },
+        {
+          "elapsedMs": 69527,
+          "pauseMs": 339,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:05.007Z"
+        },
+        {
+          "elapsedMs": 69913,
+          "pauseMs": 386,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:05.393Z"
+        },
+        {
+          "elapsedMs": 70144,
+          "pauseMs": 231,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:05.624Z"
+        },
+        {
+          "elapsedMs": 70499,
+          "pauseMs": 355,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:05.979Z"
+        },
+        {
+          "elapsedMs": 70773,
+          "pauseMs": 274,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:06.253Z"
+        },
+        {
+          "elapsedMs": 70979,
+          "pauseMs": 206,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:06.459Z"
+        },
+        {
+          "elapsedMs": 71354,
+          "pauseMs": 375,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:06.834Z"
+        },
+        {
+          "elapsedMs": 72029,
+          "pauseMs": 675,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:07.509Z"
+        },
+        {
+          "elapsedMs": 72253,
+          "pauseMs": 224,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:07.733Z"
+        },
+        {
+          "elapsedMs": 73417,
+          "pauseMs": 1164,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:08.897Z"
+        },
+        {
+          "elapsedMs": 74142,
+          "pauseMs": 725,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:09.622Z"
+        },
+        {
+          "elapsedMs": 75108,
+          "pauseMs": 966,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:10.588Z"
+        },
+        {
+          "elapsedMs": 75311,
+          "pauseMs": 203,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:10.791Z"
+        },
+        {
+          "elapsedMs": 75825,
+          "pauseMs": 514,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:11.305Z"
+        },
+        {
+          "elapsedMs": 76064,
+          "pauseMs": 239,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:11.544Z"
+        },
+        {
+          "elapsedMs": 77086,
+          "pauseMs": 1022,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:12.566Z"
+        },
+        {
+          "elapsedMs": 77333,
+          "pauseMs": 247,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:12.813Z"
+        },
+        {
+          "elapsedMs": 78185,
+          "pauseMs": 852,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:13.665Z"
+        },
+        {
+          "elapsedMs": 78393,
+          "pauseMs": 208,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:13.873Z"
+        },
+        {
+          "elapsedMs": 78612,
+          "pauseMs": 219,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:14.092Z"
+        },
+        {
+          "elapsedMs": 78892,
+          "pauseMs": 280,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 0,
+          "timestamp": "2026-05-08T20:53:14.372Z"
+        }
+      ],
+      "updatedAt": "2026-05-08T20:54:54.294748+00:00"
+    },
+    "session-1778274270431": {
+      "sessionId": "session-1778274270431",
+      "topic": "Arrays",
+      "features": {
+        "typingSpeedWpm": 0,
+        "averagePauseMs": 0,
+        "backspaceRate": 0,
+        "rewriteFrequency": 0,
+        "focusScore": 0.5,
+        "hesitationIndex": 0,
+        "confidenceScore": 0.5,
+        "struggleScore": 0,
+        "quizScore": 0
+      },
+      "records": [],
+      "updatedAt": "2026-05-08T21:05:11.620820+00:00"
+    },
+    "session-1778478730291": {
+      "sessionId": "session-1778478730291",
+      "topic": "Arrays",
+      "features": {
+        "typingSpeedWpm": 0,
+        "averagePauseMs": 0,
+        "backspaceRate": 0,
+        "rewriteFrequency": 0,
+        "focusScore": 0.5,
+        "hesitationIndex": 0,
+        "confidenceScore": 0.5,
+        "struggleScore": 0,
+        "quizScore": 20
+      },
+      "records": [],
+      "updatedAt": "2026-05-11T05:53:25.100232+00:00"
+    },
+    "session-1778582755677": {
+      "sessionId": "session-1778582755677",
+      "topic": "DBMS Normalization",
+      "features": {
+        "typingSpeedWpm": 0,
+        "averagePauseMs": 0,
+        "backspaceRate": 0,
+        "rewriteFrequency": 0,
+        "focusScore": 0.5,
+        "hesitationIndex": 0,
+        "confidenceScore": 0.5,
+        "struggleScore": 0,
+        "quizScore": 0
+      },
+      "records": [],
+      "updatedAt": "2026-05-12T11:05:21.437108+00:00"
+    },
+    "session-1778584898906": {
+      "sessionId": "session-1778584898906",
+      "topic": "DBMS Normalization",
+      "features": {
+        "typingSpeedWpm": 3.17,
+        "averagePauseMs": 3641.88,
+        "backspaceRate": 0.04,
+        "rewriteFrequency": 0.038,
+        "focusScore": 0,
+        "hesitationIndex": 2.345,
+        "confidenceScore": 0.414,
+        "struggleScore": 0.327,
+        "quizScore": 67
+      },
+      "records": [
+        {
+          "elapsedMs": 313026,
+          "pauseMs": 313026,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:51.932Z"
+        },
+        {
+          "elapsedMs": 313183,
+          "pauseMs": 157,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:52.089Z"
+        },
+        {
+          "elapsedMs": 313282,
+          "pauseMs": 99,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:52.188Z"
+        },
+        {
+          "elapsedMs": 313430,
+          "pauseMs": 148,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:52.336Z"
+        },
+        {
+          "elapsedMs": 313519,
+          "pauseMs": 89,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:52.425Z"
+        },
+        {
+          "elapsedMs": 313914,
+          "pauseMs": 395,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:52.820Z"
+        },
+        {
+          "elapsedMs": 314166,
+          "pauseMs": 252,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:53.072Z"
+        },
+        {
+          "elapsedMs": 314693,
+          "pauseMs": 527,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:53.599Z"
+        },
+        {
+          "elapsedMs": 314891,
+          "pauseMs": 198,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:53.797Z"
+        },
+        {
+          "elapsedMs": 315141,
+          "pauseMs": 250,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:54.047Z"
+        },
+        {
+          "elapsedMs": 315585,
+          "pauseMs": 444,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:54.491Z"
+        },
+        {
+          "elapsedMs": 315861,
+          "pauseMs": 276,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:54.767Z"
+        },
+        {
+          "elapsedMs": 316017,
+          "pauseMs": 156,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:54.923Z"
+        },
+        {
+          "elapsedMs": 316203,
+          "pauseMs": 186,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:55.109Z"
+        },
+        {
+          "elapsedMs": 316405,
+          "pauseMs": 202,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:55.311Z"
+        },
+        {
+          "elapsedMs": 316633,
+          "pauseMs": 228,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:55.539Z"
+        },
+        {
+          "elapsedMs": 316997,
+          "pauseMs": 364,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:55.903Z"
+        },
+        {
+          "elapsedMs": 317128,
+          "pauseMs": 131,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:56.034Z"
+        },
+        {
+          "elapsedMs": 319017,
+          "pauseMs": 1889,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:57.924Z"
+        },
+        {
+          "elapsedMs": 319191,
+          "pauseMs": 174,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:58.097Z"
+        },
+        {
+          "elapsedMs": 319328,
+          "pauseMs": 137,
+          "charsAdded": 0,
+          "backspaces": 1,
+          "rewriteEvents": 1,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:58.234Z"
+        },
+        {
+          "elapsedMs": 320161,
+          "pauseMs": 833,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:59.067Z"
+        },
+        {
+          "elapsedMs": 320280,
+          "pauseMs": 119,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:59.186Z"
+        },
+        {
+          "elapsedMs": 320366,
+          "pauseMs": 86,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:59.272Z"
+        },
+        {
+          "elapsedMs": 320493,
+          "pauseMs": 127,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:59.399Z"
+        },
+        {
+          "elapsedMs": 320615,
+          "pauseMs": 122,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:59.521Z"
+        },
+        {
+          "elapsedMs": 321040,
+          "pauseMs": 425,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:26:59.946Z"
+        },
+        {
+          "elapsedMs": 321277,
+          "pauseMs": 237,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.183Z"
+        },
+        {
+          "elapsedMs": 321432,
+          "pauseMs": 155,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.338Z"
+        },
+        {
+          "elapsedMs": 321564,
+          "pauseMs": 132,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.471Z"
+        },
+        {
+          "elapsedMs": 321647,
+          "pauseMs": 83,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.553Z"
+        },
+        {
+          "elapsedMs": 321887,
+          "pauseMs": 240,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.793Z"
+        },
+        {
+          "elapsedMs": 321948,
+          "pauseMs": 61,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.854Z"
+        },
+        {
+          "elapsedMs": 322062,
+          "pauseMs": 114,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:00.968Z"
+        },
+        {
+          "elapsedMs": 328791,
+          "pauseMs": 6729,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:07.697Z"
+        },
+        {
+          "elapsedMs": 329128,
+          "pauseMs": 337,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:08.034Z"
+        },
+        {
+          "elapsedMs": 329540,
+          "pauseMs": 412,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:08.446Z"
+        },
+        {
+          "elapsedMs": 329768,
+          "pauseMs": 228,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:08.674Z"
+        },
+        {
+          "elapsedMs": 329809,
+          "pauseMs": 41,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:08.715Z"
+        },
+        {
+          "elapsedMs": 329993,
+          "pauseMs": 184,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:08.899Z"
+        },
+        {
+          "elapsedMs": 330406,
+          "pauseMs": 413,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:09.312Z"
+        },
+        {
+          "elapsedMs": 330433,
+          "pauseMs": 27,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:09.339Z"
+        },
+        {
+          "elapsedMs": 330568,
+          "pauseMs": 135,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:09.474Z"
+        },
+        {
+          "elapsedMs": 330641,
+          "pauseMs": 73,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:09.547Z"
+        },
+        {
+          "elapsedMs": 331010,
+          "pauseMs": 369,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:09.916Z"
+        },
+        {
+          "elapsedMs": 331299,
+          "pauseMs": 289,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:10.205Z"
+        },
+        {
+          "elapsedMs": 331400,
+          "pauseMs": 101,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:10.306Z"
+        },
+        {
+          "elapsedMs": 331423,
+          "pauseMs": 23,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:10.329Z"
+        },
+        {
+          "elapsedMs": 331478,
+          "pauseMs": 55,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:10.384Z"
+        },
+        {
+          "elapsedMs": 331864,
+          "pauseMs": 386,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:10.770Z"
+        },
+        {
+          "elapsedMs": 332227,
+          "pauseMs": 363,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:11.133Z"
+        },
+        {
+          "elapsedMs": 332575,
+          "pauseMs": 348,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:11.481Z"
+        },
+        {
+          "elapsedMs": 332712,
+          "pauseMs": 137,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:11.618Z"
+        },
+        {
+          "elapsedMs": 332891,
+          "pauseMs": 179,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:11.797Z"
+        },
+        {
+          "elapsedMs": 332995,
+          "pauseMs": 104,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:11.901Z"
+        },
+        {
+          "elapsedMs": 333074,
+          "pauseMs": 79,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:11.980Z"
+        },
+        {
+          "elapsedMs": 333443,
+          "pauseMs": 369,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:12.349Z"
+        },
+        {
+          "elapsedMs": 334487,
+          "pauseMs": 1044,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:13.393Z"
+        },
+        {
+          "elapsedMs": 334658,
+          "pauseMs": 171,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:13.564Z"
+        },
+        {
+          "elapsedMs": 334904,
+          "pauseMs": 246,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:13.810Z"
+        },
+        {
+          "elapsedMs": 335154,
+          "pauseMs": 250,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:14.060Z"
+        },
+        {
+          "elapsedMs": 335383,
+          "pauseMs": 229,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:14.289Z"
+        },
+        {
+          "elapsedMs": 335820,
+          "pauseMs": 437,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:14.726Z"
+        },
+        {
+          "elapsedMs": 337812,
+          "pauseMs": 1992,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:16.718Z"
+        },
+        {
+          "elapsedMs": 338245,
+          "pauseMs": 433,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:17.151Z"
+        },
+        {
+          "elapsedMs": 340099,
+          "pauseMs": 1854,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:19.005Z"
+        },
+        {
+          "elapsedMs": 346861,
+          "pauseMs": 6762,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:25.767Z"
+        },
+        {
+          "elapsedMs": 347308,
+          "pauseMs": 447,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:26.214Z"
+        },
+        {
+          "elapsedMs": 347543,
+          "pauseMs": 235,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:26.449Z"
+        },
+        {
+          "elapsedMs": 348455,
+          "pauseMs": 912,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:27.361Z"
+        },
+        {
+          "elapsedMs": 351108,
+          "pauseMs": 2653,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:30.014Z"
+        },
+        {
+          "elapsedMs": 351246,
+          "pauseMs": 138,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:30.152Z"
+        },
+        {
+          "elapsedMs": 351532,
+          "pauseMs": 286,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:30.438Z"
+        },
+        {
+          "elapsedMs": 351830,
+          "pauseMs": 298,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:30.736Z"
+        },
+        {
+          "elapsedMs": 352402,
+          "pauseMs": 572,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:31.308Z"
+        },
+        {
+          "elapsedMs": 352667,
+          "pauseMs": 265,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:31.573Z"
+        },
+        {
+          "elapsedMs": 352812,
+          "pauseMs": 145,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:31.718Z"
+        },
+        {
+          "elapsedMs": 353081,
+          "pauseMs": 269,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:31.987Z"
+        },
+        {
+          "elapsedMs": 353460,
+          "pauseMs": 379,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:32.366Z"
+        },
+        {
+          "elapsedMs": 354096,
+          "pauseMs": 636,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:33.002Z"
+        },
+        {
+          "elapsedMs": 354312,
+          "pauseMs": 216,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:33.218Z"
+        },
+        {
+          "elapsedMs": 355475,
+          "pauseMs": 1163,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:34.381Z"
+        },
+        {
+          "elapsedMs": 356073,
+          "pauseMs": 598,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:34.979Z"
+        },
+        {
+          "elapsedMs": 366913,
+          "pauseMs": 10840,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:45.819Z"
+        },
+        {
+          "elapsedMs": 367153,
+          "pauseMs": 240,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:46.059Z"
+        },
+        {
+          "elapsedMs": 369609,
+          "pauseMs": 2456,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:48.515Z"
+        },
+        {
+          "elapsedMs": 370984,
+          "pauseMs": 1375,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:49.890Z"
+        },
+        {
+          "elapsedMs": 371133,
+          "pauseMs": 149,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:50.039Z"
+        },
+        {
+          "elapsedMs": 371321,
+          "pauseMs": 188,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:50.227Z"
+        },
+        {
+          "elapsedMs": 371472,
+          "pauseMs": 151,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:50.378Z"
+        },
+        {
+          "elapsedMs": 371526,
+          "pauseMs": 54,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:50.432Z"
+        },
+        {
+          "elapsedMs": 371717,
+          "pauseMs": 191,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:50.623Z"
+        },
+        {
+          "elapsedMs": 371843,
+          "pauseMs": 126,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:50.750Z"
+        },
+        {
+          "elapsedMs": 372165,
+          "pauseMs": 322,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:51.071Z"
+        },
+        {
+          "elapsedMs": 373122,
+          "pauseMs": 957,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:52.028Z"
+        },
+        {
+          "elapsedMs": 373445,
+          "pauseMs": 323,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:52.351Z"
+        },
+        {
+          "elapsedMs": 373810,
+          "pauseMs": 365,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:52.716Z"
+        },
+        {
+          "elapsedMs": 374238,
+          "pauseMs": 428,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:53.144Z"
+        },
+        {
+          "elapsedMs": 374251,
+          "pauseMs": 13,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:53.157Z"
+        },
+        {
+          "elapsedMs": 374542,
+          "pauseMs": 291,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:53.448Z"
+        },
+        {
+          "elapsedMs": 374584,
+          "pauseMs": 42,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:53.490Z"
+        },
+        {
+          "elapsedMs": 374998,
+          "pauseMs": 414,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:53.904Z"
+        },
+        {
+          "elapsedMs": 375381,
+          "pauseMs": 383,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:54.287Z"
+        },
+        {
+          "elapsedMs": 378755,
+          "pauseMs": 3374,
+          "charsAdded": 1,
+          "backspaces": 0,
+          "rewriteEvents": 0,
+          "focusLossEvents": 5,
+          "timestamp": "2026-05-12T11:27:57.661Z"
+        }
+      ],
+      "updatedAt": "2026-05-12T11:28:58.395505+00:00"
+    }
+  },
+  "quiz_results": {
+    "session-1778271390738": {
+      "sessionId": "session-1778271390738",
+      "answers": {
+        "1": 3,
+        "2": 2,
+        "3": 0
+      },
+      "quizScore": 0.0,
+      "submittedAt": "2026-05-08T20:17:02.936878+00:00"
+    },
+    "session-1778273515480": {
+      "sessionId": "session-1778273515480",
+      "answers": {
+        "answers": {
+          "1": 1,
+          "2": 1,
+          "3": 3
+        },
+        "confidence": {}
+      },
+      "quizScore": 33.0,
+      "submittedAt": "2026-05-08T20:54:55.142637+00:00"
+    },
+    "session-1778274270431": {
+      "sessionId": "session-1778274270431",
+      "answers": {
+        "answers": {},
+        "confidence": {},
+        "timings": {
+          "ds-arr-1": 7398,
+          "ds-graph-1": 5414,
+          "ds-stack-1": 6463,
+          "gen-cog-1": 3048,
+          "ds-tree-1": 3697
+        },
+        "retries": {},
+        "quizProfile": {
+          "topicKey": "ds",
+          "cognitiveState": "Guessing",
+          "difficultyMode": "basic + medium",
+          "weakSubtopics": [
+            "Arrays"
+          ],
+          "questions": [
+            {
+              "id": "ds-arr-1",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "subtopic": "Arrays",
+              "question": "Why is array indexing usually O(1)?",
+              "options": [
+                "Address calculation is direct",
+                "The array is sorted",
+                "Each item is hashed",
+                "All elements are strings"
+              ],
+              "answer": 0,
+              "explanation": "The element address can be computed directly from base address and index.",
+              "topicKey": "ds",
+              "priority": 9
+            },
+            {
+              "id": "ds-graph-1",
+              "type": "True/False",
+              "difficulty": "medium",
+              "subtopic": "Graphs",
+              "question": "True or False: BFS is commonly used to find shortest paths in an unweighted graph.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "answer": 0,
+              "explanation": "BFS explores level by level, giving shortest edge count in unweighted graphs.",
+              "topicKey": "ds",
+              "priority": 4
+            },
+            {
+              "id": "ds-stack-1",
+              "type": "Scenario",
+              "difficulty": "medium",
+              "subtopic": "Stacks",
+              "question": "Which data structure best models browser back navigation?",
+              "options": [
+                "Stack",
+                "Queue",
+                "Graph",
+                "Heap"
+              ],
+              "answer": 0,
+              "explanation": "Back navigation follows last-in, first-out behavior.",
+              "topicKey": "ds",
+              "priority": 4
+            },
+            {
+              "id": "gen-cog-1",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "subtopic": "Learning Behavior",
+              "question": "What can repeated long pauses during explanation suggest?",
+              "options": [
+                "Hesitation or retrieval difficulty",
+                "Perfect mastery",
+                "Network routing",
+                "SQL injection"
+              ],
+              "answer": 0,
+              "explanation": "Long pauses can indicate uncertainty, recall difficulty, or cognitive load.",
+              "topicKey": "ds",
+              "priority": 4
+            },
+            {
+              "id": "ds-tree-1",
+              "type": "Conceptual",
+              "difficulty": "advanced",
+              "subtopic": "Trees",
+              "question": "In a balanced binary search tree, average search time is closest to:",
+              "options": [
+                "O(log n)",
+                "O(n^2)",
+                "O(1) always",
+                "O(n!)"
+              ],
+              "answer": 0,
+              "explanation": "Balanced trees keep height near log n.",
+              "topicKey": "ds",
+              "priority": 0
+            }
+          ]
+        },
+        "analytics": {
+          "score": 0,
+          "avgConfidence": 50,
+          "avgResponseTime": 5204,
+          "fakeUnderstandingCount": 0,
+          "hesitationCount": 0,
+          "weakSubtopics": [
+            "Arrays",
+            "Graphs",
+            "Stacks",
+            "Learning Behavior",
+            "Trees"
+          ],
+          "details": [
+            {
+              "questionId": "ds-arr-1",
+              "subtopic": "Arrays",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 7398,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "ds-graph-1",
+              "subtopic": "Graphs",
+              "type": "True/False",
+              "difficulty": "medium",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 5414,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "ds-stack-1",
+              "subtopic": "Stacks",
+              "type": "Scenario",
+              "difficulty": "medium",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 6463,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "gen-cog-1",
+              "subtopic": "Learning Behavior",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 3048,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "ds-tree-1",
+              "subtopic": "Trees",
+              "type": "Conceptual",
+              "difficulty": "advanced",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 3697,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            }
+          ]
+        }
+      },
+      "quizScore": 0.0,
+      "submittedAt": "2026-05-08T21:05:11.969427+00:00"
+    },
+    "session-1778478730291": {
+      "sessionId": "session-1778478730291",
+      "answers": {
+        "answers": {
+          "ds-arr-1": 2,
+          "ds-graph-1": 0,
+          "ds-stack-1": 1,
+          "gen-cog-1": 1,
+          "ds-tree-1": 3
+        },
+        "confidence": {},
+        "timings": {
+          "ds-arr-1": 5384,
+          "ds-graph-1": 4661,
+          "ds-stack-1": 5063,
+          "gen-cog-1": 3015,
+          "ds-tree-1": 4267
+        },
+        "retries": {
+          "ds-arr-1": 0,
+          "ds-graph-1": 0,
+          "ds-stack-1": 0,
+          "gen-cog-1": 0,
+          "ds-tree-1": 0
+        },
+        "quizProfile": {
+          "topicKey": "ds",
+          "cognitiveState": "Guessing",
+          "difficultyMode": "basic + medium",
+          "weakSubtopics": [
+            "Arrays"
+          ],
+          "questions": [
+            {
+              "id": "ds-arr-1",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "subtopic": "Arrays",
+              "question": "Why is array indexing usually O(1)?",
+              "options": [
+                "Address calculation is direct",
+                "The array is sorted",
+                "Each item is hashed",
+                "All elements are strings"
+              ],
+              "answer": 0,
+              "explanation": "The element address can be computed directly from base address and index.",
+              "topicKey": "ds",
+              "priority": 9
+            },
+            {
+              "id": "ds-graph-1",
+              "type": "True/False",
+              "difficulty": "medium",
+              "subtopic": "Graphs",
+              "question": "True or False: BFS is commonly used to find shortest paths in an unweighted graph.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "answer": 0,
+              "explanation": "BFS explores level by level, giving shortest edge count in unweighted graphs.",
+              "topicKey": "ds",
+              "priority": 4
+            },
+            {
+              "id": "ds-stack-1",
+              "type": "Scenario",
+              "difficulty": "medium",
+              "subtopic": "Stacks",
+              "question": "Which data structure best models browser back navigation?",
+              "options": [
+                "Stack",
+                "Queue",
+                "Graph",
+                "Heap"
+              ],
+              "answer": 0,
+              "explanation": "Back navigation follows last-in, first-out behavior.",
+              "topicKey": "ds",
+              "priority": 4
+            },
+            {
+              "id": "gen-cog-1",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "subtopic": "Learning Behavior",
+              "question": "What can repeated long pauses during explanation suggest?",
+              "options": [
+                "Hesitation or retrieval difficulty",
+                "Perfect mastery",
+                "Network routing",
+                "SQL injection"
+              ],
+              "answer": 0,
+              "explanation": "Long pauses can indicate uncertainty, recall difficulty, or cognitive load.",
+              "topicKey": "ds",
+              "priority": 4
+            },
+            {
+              "id": "ds-tree-1",
+              "type": "Conceptual",
+              "difficulty": "advanced",
+              "subtopic": "Trees",
+              "question": "In a balanced binary search tree, average search time is closest to:",
+              "options": [
+                "O(log n)",
+                "O(n^2)",
+                "O(1) always",
+                "O(n!)"
+              ],
+              "answer": 0,
+              "explanation": "Balanced trees keep height near log n.",
+              "topicKey": "ds",
+              "priority": 0
+            }
+          ]
+        },
+        "analytics": {
+          "score": 20,
+          "avgConfidence": 50,
+          "avgResponseTime": 4478,
+          "fakeUnderstandingCount": 0,
+          "hesitationCount": 0,
+          "weakSubtopics": [
+            "Arrays",
+            "Stacks",
+            "Learning Behavior",
+            "Trees"
+          ],
+          "details": [
+            {
+              "questionId": "ds-arr-1",
+              "subtopic": "Arrays",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "selected": 2,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 5384,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "ds-graph-1",
+              "subtopic": "Graphs",
+              "type": "True/False",
+              "difficulty": "medium",
+              "selected": 0,
+              "correct": true,
+              "confidence": 50,
+              "responseTime": 4661,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 40
+            },
+            {
+              "questionId": "ds-stack-1",
+              "subtopic": "Stacks",
+              "type": "Scenario",
+              "difficulty": "medium",
+              "selected": 1,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 5063,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "gen-cog-1",
+              "subtopic": "Learning Behavior",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "selected": 1,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 3015,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "ds-tree-1",
+              "subtopic": "Trees",
+              "type": "Conceptual",
+              "difficulty": "advanced",
+              "selected": 3,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 4267,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            }
+          ]
+        }
+      },
+      "quizScore": 20.0,
+      "submittedAt": "2026-05-11T05:53:25.438185+00:00"
+    },
+    "session-1778582755677": {
+      "sessionId": "session-1778582755677",
+      "answers": {
+        "answers": {
+          "dbms-nf-2": 3,
+          "gen-cog-1": 2,
+          "dbms-nf-3": 1
+        },
+        "confidence": {},
+        "timings": {
+          "dbms-nf-1": 2398,
+          "dbms-nf-2": 2218,
+          "gen-cog-1": 2538,
+          "dbms-nf-3": 3092,
+          "dbms-sql-1": 1494
+        },
+        "retries": {
+          "dbms-nf-2": 0,
+          "gen-cog-1": 0,
+          "dbms-nf-3": 0
+        },
+        "quizProfile": {
+          "topicKey": "dbms",
+          "cognitiveState": "Guessing",
+          "difficultyMode": "basic + medium (personal weak area)",
+          "weakSubtopics": [
+            "Normalization",
+            "Learning Behavior",
+            "SQL"
+          ],
+          "questions": [
+            {
+              "id": "dbms-nf-1",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "subtopic": "Normalization",
+              "question": "What is the main goal of database normalization?",
+              "options": [
+                "Reduce data redundancy",
+                "Increase duplicate rows",
+                "Remove all primary keys",
+                "Store only images"
+              ],
+              "answer": 0,
+              "explanation": "Normalization organizes tables to reduce redundancy and improve consistency.",
+              "topicKey": "dbms",
+              "priority": 14
+            },
+            {
+              "id": "dbms-sql-1",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "subtopic": "SQL",
+              "question": "Which SQL clause is used to filter rows before grouping?",
+              "options": [
+                "WHERE",
+                "HAVING",
+                "ORDER BY",
+                "JOIN"
+              ],
+              "answer": 0,
+              "explanation": "WHERE filters rows before aggregation; HAVING filters groups after aggregation.",
+              "topicKey": "dbms",
+              "priority": 14
+            },
+            {
+              "id": "gen-cog-1",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "subtopic": "Learning Behavior",
+              "question": "What can repeated long pauses during explanation suggest?",
+              "options": [
+                "Hesitation or retrieval difficulty",
+                "Perfect mastery",
+                "Network routing",
+                "SQL injection"
+              ],
+              "answer": 0,
+              "explanation": "Long pauses can indicate uncertainty, recall difficulty, or cognitive load.",
+              "topicKey": "dbms",
+              "priority": 14
+            },
+            {
+              "id": "dbms-nf-2",
+              "type": "Scenario",
+              "difficulty": "medium",
+              "subtopic": "Normalization",
+              "question": "A student table stores CourseName repeatedly for every enrolled student. Which design issue is most likely present?",
+              "options": [
+                "Redundancy",
+                "Index corruption",
+                "Deadlock",
+                "Packet loss"
+              ],
+              "answer": 0,
+              "explanation": "Repeating course details across many rows suggests redundancy and possible update anomalies.",
+              "topicKey": "dbms",
+              "priority": 12
+            },
+            {
+              "id": "dbms-nf-3",
+              "type": "True/False",
+              "difficulty": "advanced",
+              "subtopic": "Normalization",
+              "question": "True or False: 3NF helps remove transitive dependencies from a relation.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "answer": 0,
+              "explanation": "3NF reduces transitive dependencies so non-key attributes depend on keys.",
+              "topicKey": "dbms",
+              "priority": 8
+            }
+          ]
+        },
+        "analytics": {
+          "score": 0,
+          "avgConfidence": 50,
+          "avgResponseTime": 2348,
+          "fakeUnderstandingCount": 0,
+          "hesitationCount": 0,
+          "weakSubtopics": [
+            "Normalization",
+            "SQL",
+            "Learning Behavior"
+          ],
+          "details": [
+            {
+              "questionId": "dbms-nf-1",
+              "subtopic": "Normalization",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 2398,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "dbms-sql-1",
+              "subtopic": "SQL",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 1494,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "gen-cog-1",
+              "subtopic": "Learning Behavior",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "selected": 2,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 2538,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "dbms-nf-2",
+              "subtopic": "Normalization",
+              "type": "Scenario",
+              "difficulty": "medium",
+              "selected": 3,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 2218,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "dbms-nf-3",
+              "subtopic": "Normalization",
+              "type": "True/False",
+              "difficulty": "advanced",
+              "selected": 1,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 3092,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            }
+          ]
+        }
+      },
+      "quizScore": 0.0,
+      "submittedAt": "2026-05-12T11:05:21.764134+00:00"
+    },
+    "session-1778584898906": {
+      "sessionId": "session-1778584898906",
+      "answers": {
+        "answers": {
+          "dbms-nf-1": 0,
+          "dbms-sql-1": 3,
+          "gen-cog-1": 0
+        },
+        "confidence": {},
+        "timings": {
+          "dbms-nf-1": 10613,
+          "dbms-sql-1": 8839,
+          "gen-cog-1": 11943
+        },
+        "retries": {
+          "dbms-nf-1": 1,
+          "dbms-sql-1": 0,
+          "gen-cog-1": 0
+        },
+        "quizProfile": {
+          "topicKey": "dbms",
+          "cognitiveState": "Fatigued",
+          "difficultyMode": "basic + medium (personal weak area)",
+          "weakSubtopics": [
+            "Normalization",
+            "Learning Behavior",
+            "SQL"
+          ],
+          "questions": [
+            {
+              "id": "dbms-nf-1",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "subtopic": "Normalization",
+              "question": "What is the main goal of database normalization?",
+              "options": [
+                "Reduce data redundancy",
+                "Increase duplicate rows",
+                "Remove all primary keys",
+                "Store only images"
+              ],
+              "answer": 0,
+              "explanation": "Normalization organizes tables to reduce redundancy and improve consistency.",
+              "topicKey": "dbms",
+              "priority": 14
+            },
+            {
+              "id": "dbms-sql-1",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "subtopic": "SQL",
+              "question": "Which SQL clause is used to filter rows before grouping?",
+              "options": [
+                "WHERE",
+                "HAVING",
+                "ORDER BY",
+                "JOIN"
+              ],
+              "answer": 0,
+              "explanation": "WHERE filters rows before aggregation; HAVING filters groups after aggregation.",
+              "topicKey": "dbms",
+              "priority": 14
+            },
+            {
+              "id": "gen-cog-1",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "subtopic": "Learning Behavior",
+              "question": "What can repeated long pauses during explanation suggest?",
+              "options": [
+                "Hesitation or retrieval difficulty",
+                "Perfect mastery",
+                "Network routing",
+                "SQL injection"
+              ],
+              "answer": 0,
+              "explanation": "Long pauses can indicate uncertainty, recall difficulty, or cognitive load.",
+              "topicKey": "dbms",
+              "priority": 14
+            }
+          ]
+        },
+        "analytics": {
+          "score": 67,
+          "avgConfidence": 50,
+          "avgResponseTime": 10465,
+          "fakeUnderstandingCount": 0,
+          "hesitationCount": 0,
+          "weakSubtopics": [
+            "SQL"
+          ],
+          "details": [
+            {
+              "questionId": "dbms-nf-1",
+              "subtopic": "Normalization",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "selected": 0,
+              "correct": true,
+              "confidence": 50,
+              "responseTime": 10613,
+              "retries": 1,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 40
+            },
+            {
+              "questionId": "dbms-sql-1",
+              "subtopic": "SQL",
+              "type": "MCQ",
+              "difficulty": "basic",
+              "selected": 3,
+              "correct": false,
+              "confidence": 50,
+              "responseTime": 8839,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 15
+            },
+            {
+              "questionId": "gen-cog-1",
+              "subtopic": "Learning Behavior",
+              "type": "Conceptual",
+              "difficulty": "basic",
+              "selected": 0,
+              "correct": true,
+              "confidence": 50,
+              "responseTime": 11943,
+              "retries": 0,
+              "hesitationPattern": false,
+              "fakeUnderstanding": false,
+              "confidenceMismatch": 40
+            }
+          ]
+        }
+      },
+      "quizScore": 67.0,
+      "submittedAt": "2026-05-12T11:28:58.529570+00:00"
+    }
+  },
+  "predictions": {
+    "session-demo": {
+      "sessionId": "session-demo",
+      "quizScore": 62.0,
+      "result": {
+        "features": {
+          "typing_speed_wpm": 31.0,
+          "avg_pause_ms": 1120.0,
+          "backspace_rate": 0.16,
+          "rewrite_frequency": 0.38,
+          "focus_loss_events": 2.0,
+          "tab_switch_count": 3.0,
+          "question_time_sec": 92.0,
+          "hesitation_index": 0.5751,
+          "confidence_score": 0.5121,
+          "struggle_score": 0.3432,
+          "focus_score": 0.71
+        },
+        "cognitive_state": "Guessing",
+        "fake_understanding": 0,
+        "time_to_master_min": 51.22,
+        "burnout_risk": 0,
+        "adaptive_action": "Offer guided practice with immediate feedback."
+      },
+      "createdAt": "2026-05-08T20:10:39.025841+00:00"
+    },
+    "session-1778271390738": {
+      "sessionId": "session-1778271390738",
+      "quizScore": 0.0,
+      "result": {
+        "features": {
+          "typing_speed_wpm": 18.11,
+          "avg_pause_ms": 623.68,
+          "backspace_rate": 0.063,
+          "rewrite_frequency": 0.059,
+          "focus_loss_events": 0.0,
+          "tab_switch_count": 0.0,
+          "question_time_sec": 60.0,
+          "hesitation_index": 0.2771,
+          "confidence_score": 0.7074,
+          "struggle_score": 0.0692,
+          "focus_score": 1.0
+        },
+        "cognitive_state": "Guessing",
+        "fake_understanding": 0,
+        "time_to_master_min": 23.78,
+        "burnout_risk": 0,
+        "adaptive_action": "Offer guided practice with immediate feedback."
+      },
+      "createdAt": "2026-05-08T20:17:03.448448+00:00"
+    },
+    "session-1778273515480": {
+      "sessionId": "session-1778273515480",
+      "quizScore": 33.0,
+      "result": {
+        "features": {
+          "typing_speed_wpm": 4.41,
+          "avg_pause_ms": 2629.73,
+          "backspace_rate": 0.034,
+          "rewrite_frequency": 0.033,
+          "focus_loss_events": 0.0,
+          "tab_switch_count": 0.0,
+          "question_time_sec": 60.0,
+          "hesitation_index": 0.9906,
+          "confidence_score": 0.4669,
+          "struggle_score": 0.0377,
+          "focus_score": 1.0
+        },
+        "cognitive_state": "Guessing",
+        "fake_understanding": 0,
+        "time_to_master_min": 180.0,
+        "burnout_risk": 1,
+        "adaptive_action": "Suggest break, shorten session, and offer low-load recap."
+      },
+      "createdAt": "2026-05-08T20:55:07.265223+00:00"
+    },
+    "session-1778274270431": {
+      "sessionId": "session-1778274270431",
+      "quizScore": 0.0,
+      "result": {
+        "features": {
+          "typing_speed_wpm": 0.0,
+          "avg_pause_ms": 0.0,
+          "backspace_rate": 0.0,
+          "rewrite_frequency": 0.0,
+          "focus_loss_events": 0.0,
+          "tab_switch_count": 0.0,
+          "question_time_sec": 60.0,
+          "hesitation_index": 0.0,
+          "confidence_score": 0.7,
+          "struggle_score": 0.0,
+          "focus_score": 1.0
+        },
+        "cognitive_state": "Guessing",
+        "fake_understanding": 0,
+        "time_to_master_min": 5.0,
+        "burnout_risk": 0,
+        "adaptive_action": "Offer guided practice with immediate feedback."
+      },
+      "createdAt": "2026-05-08T21:05:12.934513+00:00"
+    }
+  },
+  "analytics": {
+    "session-1778582755677": {
+      "sessionId": "session-1778582755677",
+      "cameraMetrics": {
+        "faceDetected": false,
+        "focusScore": 0.2,
+        "distractionScore": 0.9,
+        "confusionScore": 0.45,
+        "lookAwayRatio": 0.9,
+        "cameraReady": true
+      },
+      "voiceMetrics": {
+        "speechRateWpm": 0.10171129249624938,
+        "pauseRatio": 1,
+        "hesitationScore": 0.9782842371323529,
+        "fillerRate": 0,
+        "energyLevel": 0.07238587622549018,
+        "microphoneReady": true
+      },
+      "updatedAt": "2026-05-12T11:05:21.025118+00:00"
+    },
+    "session-1778584898906": {
+      "sessionId": "session-1778584898906",
+      "cameraMetrics": {},
+      "voiceMetrics": {},
+      "updatedAt": "2026-05-12T11:28:58.179474+00:00"
+    }
+  }
+}

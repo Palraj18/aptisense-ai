@@ -1,0 +1,104 @@
+{
+  "session_id": "5bd26f94-0335-4a32-88c1-6a075a4f5002",
+  "interview_type": "technical",
+  "position": "Senior Backend Engineer",
+  "experience_level": "senior",
+  "start_time": "2026-05-19T15:49:12.262244",
+  "end_time": null,
+  "duration_minutes": 0.24929921666666666,
+  "interview_state": "in_progress",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "101",
+      "question": "Explain the difference between stack and queue.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T15:49:12.262244",
+      "is_follow_up": false
+    },
+    {
+      "index": 1,
+      "question_id": "101_followup_0",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T15:49:27.210061",
+      "is_follow_up": true,
+      "parent_question_id": "101"
+    }
+  ],
+  "answer_history": [
+    {
+      "answer_index": 0,
+      "question_id": "101",
+      "answer": "A stack is a Last-In-First-Out (LIFO) data structure where elements are added and removed from the same end called the top. Operations include push to add an element and pop to remove. Use cases include expression evaluation, backtracking, and function call stacks. A queue is a First-In-First-Out (FIFO) structure where elements are added at the rear and removed from the front. Operations include enqueue and dequeue. Use cases include task scheduling, breadth-first search, and printer queues.",
+      "answered_at": "2026-05-19T15:49:19.668771",
+      "evaluation": {
+        "timestamp": "2026-05-19T15:49:19.668771",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 80,
+          "confidence": 65,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": true,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": true,
+          "has_specific_examples": true
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided"
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 80,
+        "confidence_score": 65,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": true,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": true,
+        "has_specific_examples": true,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    }
+  ],
+  "memory_summary": {
+    "total_exchanges": 1,
+    "strengths": [
+      "Provided a response"
+    ],
+    "weaknesses": [
+      "Could add more detail"
+    ],
+    "conversation_theme": "general",
+    "average_answer_length": 76.0
+  }
+}

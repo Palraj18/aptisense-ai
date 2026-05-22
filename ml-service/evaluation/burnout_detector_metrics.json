@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.9292,
+  "precision_macro": 0.963,
+  "recall_macro": 0.6852,
+  "f1_macro": 0.7511,
+  "classification_report": {
+    "0": {
+      "precision": 0.9260869565217391,
+      "recall": 1.0,
+      "f1-score": 0.9616252821670429,
+      "support": 426.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 0.37037037037037035,
+      "f1-score": 0.5405405405405406,
+      "support": 54.0
+    },
+    "accuracy": 0.9291666666666667,
+    "macro avg": {
+      "precision": 0.9630434782608696,
+      "recall": 0.6851851851851851,
+      "f1-score": 0.7510829113537918,
+      "support": 480.0
+    },
+    "weighted avg": {
+      "precision": 0.9344021739130434,
+      "recall": 0.9291666666666667,
+      "f1-score": 0.9142532487340613,
+      "support": 480.0
+    }
+  },
+  "features": [
+    "typing_speed_wpm",
+    "avg_pause_ms",
+    "backspace_rate",
+    "rewrite_frequency",
+    "focus_loss_events",
+    "tab_switch_count",
+    "question_time_sec",
+    "hesitation_index",
+    "confidence_score",
+    "struggle_score",
+    "focus_score",
+    "quiz_score"
+  ]
+}

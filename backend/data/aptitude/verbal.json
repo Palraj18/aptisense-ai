@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "Reading Comprehension - Read the passage and answer the question:\n'The company introduced short daily check-ins so teams could share blockers early. As a result, work moved faster, fewer tasks were repeated, and team members spent more time on delivery than on status chasing.'\n\nWhat is the main point of the passage?",
+    "options": [
+      "Daily check-ins are mainly used to monitor attendance.",
+      "Short check-ins can improve team coordination and speed up work.",
+      "Status meetings should replace all project planning.",
+      "Delivery becomes slower when communication increases."
+    ],
+    "answer": "Short check-ins can improve team coordination and speed up work.",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "The passage says early blocker sharing reduced repeated work and helped teams deliver faster. The main idea is that short check-ins improve coordination and speed."
+  },
+  {
+    "id": 2,
+    "question": "Spot the Error - Identify the segment of the sentence that contains a grammatical error:\n'Each of the students have submitted the assignment on time.'",
+    "options": [
+      "Each of the students",
+      "have submitted",
+      "the assignment",
+      "on time"
+    ],
+    "answer": "have submitted",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "The subject 'Each' is singular, so it should take the singular verb 'has submitted'. The error is in 'have submitted'."
+  },
+  {
+    "id": 3,
+    "question": "Sentence Correction - Choose the best replacement for the underlined phrase:\n'Neither the manager nor the employees was ready to extend the deadline.'",
+    "options": [
+      "was ready",
+      "is ready",
+      "were ready",
+      "has been ready"
+    ],
+    "answer": "were ready",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "When two subjects are joined by 'neither...nor', the verb agrees with the subject nearer to it. Here, 'employees' is plural, so the correct form is 'were ready'."
+  },
+  {
+    "id": 4,
+    "question": "Synonyms - Choose the word that is most nearly similar in meaning to 'Concise'.",
+    "options": [
+      "Brief",
+      "Complicated",
+      "Hidden",
+      "Weak"
+    ],
+    "answer": "Brief",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "'Concise' means short and clear, so 'Brief' is the closest synonym."
+  },
+  {
+    "id": 5,
+    "question": "Fill in the Blank - Choose the best option:\n'She completed the report ____ the deadline.'",
+    "options": [
+      "before",
+      "for",
+      "during",
+      "among"
+    ],
+    "answer": "before",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The phrase that fits naturally and grammatically is 'before the deadline'."
+  },
+  {
+    "id": 6,
+    "question": "Para Jumbles - Choose the correct order of the sentences:\nA. First, read the question carefully.\nB. Next, eliminate the clearly wrong options.\nC. Then, compare the remaining choices.\nD. Finally, mark the answer and move on.",
+    "options": [
+      "A-B-C-D",
+      "A-C-B-D",
+      "B-A-C-D",
+      "D-C-B-A"
+    ],
+    "answer": "A-B-C-D",
+    "difficulty": "Easy",
+    "company": "Cognizant",
+    "explanation": "The steps follow a logical test-taking order: read, eliminate, compare, and then finalize the answer."
+  }
+]

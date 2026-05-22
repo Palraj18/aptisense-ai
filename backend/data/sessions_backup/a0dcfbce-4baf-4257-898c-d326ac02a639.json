@@ -1,0 +1,48 @@
+{
+  "session_id": "a0dcfbce-4baf-4257-898c-d326ac02a639",
+  "interview_type": "communication",
+  "position": "Communication Practice",
+  "experience_level": "mid",
+  "start_time": "2026-05-19T22:19:06.443520",
+  "end_time": "2026-05-19T22:19:15.198648",
+  "duration_minutes": 0.1459188,
+  "interview_state": "completed",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "401",
+      "question": "Explain a time when you had to ask for help and how you communicated the problem.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T22:19:06.443520",
+      "is_follow_up": false
+    }
+  ],
+  "answer_history": [],
+  "memory_summary": {
+    "total_exchanges": 0,
+    "strengths": [],
+    "weaknesses": [],
+    "conversation_theme": "general",
+    "average_answer_length": 0
+  },
+  "proctoring": {
+    "session_id": "a0dcfbce-4baf-4257-898c-d326ac02a639",
+    "total_frames_analyzed": 0,
+    "frames_with_valid_face": 0,
+    "face_presence_ratio": 0,
+    "total_looking_away_duration_seconds": 0,
+    "max_looking_away_duration_seconds": 0,
+    "average_looking_away_duration_seconds": 0,
+    "looking_away_count": 0,
+    "suspicious_events_count": 0,
+    "total_events_logged": 0,
+    "average_cheating_probability": 0,
+    "face_score": 0,
+    "suspicion_score": 100,
+    "integrity_score": 50,
+    "risk_level": "unknown",
+    "flagged_for_review": true,
+    "event_timeline": []
+  }
+}

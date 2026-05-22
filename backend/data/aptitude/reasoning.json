@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "Coding-Decoding - If MANGO is coded as NBOPH, how is PEAR coded in the same pattern?",
+    "options": [
+      "QFBS",
+      "QGCS",
+      "OFZS",
+      "RFCT"
+    ],
+    "answer": "QFBS",
+    "difficulty": "Easy",
+    "company": "TCS",
+    "explanation": "Each letter is shifted one place forward in the alphabet: M to N, A to B, N to O, G to H, O to P. Using the same pattern, PEAR becomes QFBS."
+  },
+  {
+    "id": 2,
+    "question": "Blood Relations - Pointing to a woman, Ravi says, 'She is the daughter of my grandmother's only son.' How is the woman related to Ravi?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Cousin"
+    ],
+    "answer": "Sister",
+    "difficulty": "Easy",
+    "company": "Infosys",
+    "explanation": "My grandmother's only son is Ravi's father. The daughter of Ravi's father is his sister."
+  },
+  {
+    "id": 3,
+    "question": "Number Series - Find the missing term in the series: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "41",
+      "42",
+      "44"
+    ],
+    "answer": "42",
+    "difficulty": "Easy",
+    "company": "Capgemini",
+    "explanation": "The differences are 4, 6, 8, 10. The next difference is 12, so 30 + 12 = 42."
+  },
+  {
+    "id": 4,
+    "question": "Direction Sense - A person walks 8 meters east, then 5 meters north, and then 8 meters west. How far and in which direction is he from the starting point?",
+    "options": [
+      "5 meters north",
+      "5 meters south",
+      "3 meters east",
+      "13 meters north"
+    ],
+    "answer": "5 meters north",
+    "difficulty": "Easy",
+    "company": "Wipro",
+    "explanation": "The east and west movements cancel each other. Only the 5 meters north movement remains."
+  },
+  {
+    "id": 5,
+    "question": "Seating Arrangement - Four friends A, B, C and D sit in a row facing north. C sits immediately left of A. A sits immediately left of B. D sits to the right of B. Who sits at the leftmost end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "C",
+    "difficulty": "Medium",
+    "company": "Cognizant",
+    "explanation": "The arrangement from left to right is C, A, B, D. So C sits at the leftmost end."
+  },
+  {
+    "id": 6,
+    "question": "Data Sufficiency - Is x divisible by 6?\nStatement I: x is divisible by 2.\nStatement II: x is divisible by 3.",
+    "options": [
+      "Statement I alone is sufficient",
+      "Statement II alone is sufficient",
+      "Both statements together are sufficient",
+      "Each statement alone is sufficient"
+    ],
+    "answer": "Both statements together are sufficient",
+    "difficulty": "Medium",
+    "company": "Accenture",
+    "explanation": "A number divisible by 6 must be divisible by both 2 and 3. Statement I alone is not enough, and Statement II alone is not enough. Together, they are sufficient."
+  }
+]

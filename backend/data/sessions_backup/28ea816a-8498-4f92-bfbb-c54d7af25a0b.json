@@ -1,0 +1,104 @@
+{
+  "session_id": "28ea816a-8498-4f92-bfbb-c54d7af25a0b",
+  "interview_type": "technical",
+  "position": "Backend Engineer",
+  "experience_level": "mid",
+  "start_time": "2026-05-19T16:40:42.665564",
+  "end_time": null,
+  "duration_minutes": 0.4265601666666667,
+  "interview_state": "in_progress",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "101",
+      "question": "Explain the difference between stack and queue.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T16:40:42.665564",
+      "is_follow_up": false
+    },
+    {
+      "index": 1,
+      "question_id": "101_followup_0",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T16:41:08.239879",
+      "is_follow_up": true,
+      "parent_question_id": "101"
+    }
+  ],
+  "answer_history": [
+    {
+      "answer_index": 0,
+      "question_id": "101",
+      "answer": "A stack is LIFO; you push and pop from the top, useful for function call stacks and DFS. A queue is FIFO; you enqueue at tail and dequeue at head, used for BFS and job scheduling. Implementation details: stacks can be implemented with arrays or linked lists; in an array-backed stack you maintain a top index, while queue implementations may use circular buffers to avoid shifting. Complexity: both have O(1) push/pop or enqueue/dequeue amortized. Example: using a stack for expression evaluation and a queue for breadth-first search on graph.",
+      "answered_at": "2026-05-19T16:41:00.769792",
+      "evaluation": {
+        "timestamp": "2026-05-19T16:41:00.769792",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 80,
+          "confidence": 65,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": true,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": true
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided"
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 80,
+        "confidence_score": 65,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": true,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": true,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    }
+  ],
+  "memory_summary": {
+    "total_exchanges": 1,
+    "strengths": [
+      "Provided a response"
+    ],
+    "weaknesses": [
+      "Could add more detail"
+    ],
+    "conversation_theme": "general",
+    "average_answer_length": 89.0
+  }
+}

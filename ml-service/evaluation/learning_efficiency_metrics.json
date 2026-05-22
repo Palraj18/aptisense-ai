@@ -1,0 +1,19 @@
+{
+  "mae": 5.1951,
+  "rmse": 6.4952,
+  "r2_score": 0.9073,
+  "features": [
+    "typing_speed_wpm",
+    "avg_pause_ms",
+    "backspace_rate",
+    "rewrite_frequency",
+    "focus_loss_events",
+    "tab_switch_count",
+    "question_time_sec",
+    "hesitation_index",
+    "confidence_score",
+    "struggle_score",
+    "focus_score",
+    "quiz_score"
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "session_id": "ac6aea9b-87d5-4ef3-b724-85c0f9898da3",
+  "interview_type": "communication",
+  "position": "Communication Practice",
+  "experience_level": "mid",
+  "start_time": "2026-05-19T21:39:51.095179",
+  "end_time": null,
+  "duration_minutes": 1.6271711833333333,
+  "interview_state": "in_progress",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "401",
+      "question": "Explain a complex idea to a non-technical stakeholder.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T21:39:51.096195",
+      "is_follow_up": false
+    },
+    {
+      "index": 1,
+      "question_id": "401_followup_0",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T21:40:29.124159",
+      "is_follow_up": true,
+      "parent_question_id": "401"
+    },
+    {
+      "index": 2,
+      "question_id": "401_followup_1",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T21:40:43.878982",
+      "is_follow_up": true,
+      "parent_question_id": "401"
+    },
+    {
+      "index": 3,
+      "question_id": "401_followup_2",
+      "question": "Could you elaborate more on that point?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T21:40:58.894121",
+      "is_follow_up": true,
+      "parent_question_id": "401"
+    },
+    {
+      "index": 4,
+      "question_id": "402",
+      "question": "How do you structure your answers during interviews?",
+      "category": "general",
+      "difficulty": "medium",
+      "asked_at": "2026-05-19T21:41:28.715267",
+      "is_follow_up": false
+    },
+    {
+      "index": 5,
+      "question_id": "403",
+      "question": "Describe a time when communication breakdown affected a project and how you fixed it.",
+      "category": "general",
+      "difficulty": "medium",
+      "asked_at": "2026-05-19T21:41:28.723934",
+      "is_follow_up": false
+    }
+  ],
+  "answer_history": [
+    {
+      "answer_index": 0,
+      "question_id": "401",
+      "answer": "hello I am fine",
+      "answered_at": "2026-05-19T21:40:21.737404",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:40:21.737404",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    },
+    {
+      "answer_index": 1,
+      "question_id": "401",
+      "answer": "hello I am fine",
+      "answered_at": "2026-05-19T21:40:36.529027",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:40:36.529027",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    },
+    {
+      "answer_index": 2,
+      "question_id": "401",
+      "answer": "hello I am fine  thank you",
+      "answered_at": "2026-05-19T21:40:51.252246",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:40:51.252246",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    },
+    {
+      "answer_index": 3,
+      "question_id": "401",
+      "answer": "hello I am fine",
+      "answered_at": "2026-05-19T21:41:06.525311",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:41:06.525311",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    },
+    {
+      "answer_index": 4,
+      "question_id": "401",
+      "answer": "hello I am fine  thank you",
+      "answered_at": "2026-05-19T21:41:13.875634",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:41:13.875634",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    },
+    {
+      "answer_index": 5,
+      "question_id": "401",
+      "answer": "hello I am fine  thank you",
+      "answered_at": "2026-05-19T21:41:21.308994",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:41:21.308994",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    },
+    {
+      "answer_index": 6,
+      "question_id": "401",
+      "answer": "hello I am fine  thank you",
+      "answered_at": "2026-05-19T21:41:28.710730",
+      "evaluation": {
+        "timestamp": "2026-05-19T21:41:28.710730",
+        "ai_scores": {
+          "technical": 50,
+          "communication": 45,
+          "confidence": 52.5,
+          "clarity": 60,
+          "relevance": 65,
+          "depth": 55,
+          "vocabulary": 60
+        },
+        "behavioral_analysis": {
+          "is_well_structured": false,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": false
+        },
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "overall_impression": "Answer provided",
+        "typing_analysis": {
+          "typing_speed_wpm": 0,
+          "backspace_count": 0,
+          "total_time_seconds": 0,
+          "hesitation_time_seconds": 0,
+          "hesitation_score": 100,
+          "correction_score": 100,
+          "interpretation": "confident"
+        }
+      },
+      "ai_analysis": {
+        "technical_score": 50,
+        "communication_score": 45,
+        "confidence_score": 45,
+        "clarity_score": 60,
+        "relevance_score": 65,
+        "depth_score": 55,
+        "vocabulary_score": 60,
+        "hesitation_indicators": 70,
+        "overall_impression": "Answer provided",
+        "strengths": [
+          "Provided a response"
+        ],
+        "areas_for_improvement": [
+          "Could add more detail"
+        ],
+        "feedback": [
+          "Consider providing more specific examples"
+        ],
+        "is_well_structured": false,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": false,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "moderate"
+      }
+    }
+  ],
+  "memory_summary": {
+    "total_exchanges": 7,
+    "strengths": [
+      "Provided a response"
+    ],
+    "weaknesses": [
+      "Could add more detail"
+    ],
+    "conversation_theme": "general",
+    "average_answer_length": 5.142857142857143
+  },
+  "proctoring": {
+    "session_id": "ac6aea9b-87d5-4ef3-b724-85c0f9898da3",
+    "total_frames_analyzed": 0,
+    "frames_with_valid_face": 0,
+    "face_presence_ratio": 0,
+    "total_looking_away_duration_seconds": 0,
+    "max_looking_away_duration_seconds": 0,
+    "average_looking_away_duration_seconds": 0,
+    "looking_away_count": 0,
+    "suspicious_events_count": 0,
+    "total_events_logged": 0,
+    "average_cheating_probability": 0,
+    "face_score": 0,
+    "suspicion_score": 100,
+    "integrity_score": 50,
+    "risk_level": "unknown",
+    "flagged_for_review": true,
+    "event_timeline": []
+  }
+}

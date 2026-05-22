@@ -1,0 +1,104 @@
+{
+  "session_id": "804fb94e-2ed2-49a0-ba12-fcfdbf5f995c",
+  "interview_type": "technical",
+  "position": "Software Engineer",
+  "experience_level": "mid",
+  "start_time": "2026-05-19T13:17:50.692925",
+  "end_time": null,
+  "duration_minutes": 0.00307455,
+  "interview_state": "in_progress",
+  "question_history": [
+    {
+      "index": 0,
+      "question_id": "101",
+      "question": "Explain the difference between stack and queue.",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T13:17:50.693923",
+      "is_follow_up": false
+    },
+    {
+      "index": 1,
+      "question_id": "101_followup_0",
+      "question": "Could you provide more specific examples?",
+      "category": "general",
+      "difficulty": "easy",
+      "asked_at": "2026-05-19T13:17:50.868383",
+      "is_follow_up": true,
+      "parent_question_id": "101"
+    }
+  ],
+  "answer_history": [
+    {
+      "answer_index": 0,
+      "question_id": "101",
+      "answer": "This is a test answer demonstrating approach.",
+      "answered_at": "2026-05-19T13:17:50.868383",
+      "evaluation": {
+        "timestamp": "2026-05-19T13:17:50.868383",
+        "ai_scores": {
+          "technical": 65,
+          "communication": 70,
+          "confidence": 68,
+          "clarity": 72,
+          "relevance": 75,
+          "depth": 60,
+          "vocabulary": 68
+        },
+        "behavioral_analysis": {
+          "is_well_structured": true,
+          "demonstrates_problem_solving": false,
+          "shows_leadership": false,
+          "has_specific_examples": true
+        },
+        "feedback": [
+          "Good answer structure"
+        ],
+        "strengths": [
+          "Clear communication"
+        ],
+        "areas_for_improvement": [
+          "More technical depth"
+        ],
+        "overall_impression": "Good response"
+      },
+      "ai_analysis": {
+        "technical_score": 65,
+        "communication_score": 70,
+        "confidence_score": 68,
+        "clarity_score": 72,
+        "relevance_score": 75,
+        "depth_score": 60,
+        "vocabulary_score": 68,
+        "hesitation_indicators": 70,
+        "overall_impression": "Good response",
+        "strengths": [
+          "Clear communication"
+        ],
+        "areas_for_improvement": [
+          "More technical depth"
+        ],
+        "feedback": [
+          "Good answer structure"
+        ],
+        "is_well_structured": true,
+        "demonstrates_problem_solving": false,
+        "shows_leadership": false,
+        "has_specific_examples": true,
+        "difficulty_adjustment": "maintain",
+        "hiring_potential": "good"
+      }
+    }
+  ],
+  "memory_summary": {
+    "total_exchanges": 1,
+    "strengths": [
+      "Clear communication"
+    ],
+    "weaknesses": [
+      "More technical depth"
+    ],
+    "conversation_theme": "general",
+    "average_answer_length": 7.0
+  }
+}

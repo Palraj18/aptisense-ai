@@ -1,0 +1,64 @@
+{
+  "accuracy": 0.9875,
+  "precision_macro": 0.9463,
+  "recall_macro": 0.9851,
+  "f1_macro": 0.9632,
+  "classification_report": {
+    "Clear": {
+      "precision": 0.9902912621359223,
+      "recall": 0.9902912621359223,
+      "f1-score": 0.9902912621359223,
+      "support": 103.0
+    },
+    "Confused": {
+      "precision": 0.9473684210526315,
+      "recall": 1.0,
+      "f1-score": 0.972972972972973,
+      "support": 18.0
+    },
+    "Fatigued": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1-score": 0.8888888888888888,
+      "support": 8.0
+    },
+    "Guessing": {
+      "precision": 0.9939393939393939,
+      "recall": 0.9879518072289156,
+      "f1-score": 0.9909365558912386,
+      "support": 332.0
+    },
+    "Overconfident": {
+      "precision": 1.0,
+      "recall": 0.9473684210526315,
+      "f1-score": 0.972972972972973,
+      "support": 19.0
+    },
+    "accuracy": 0.9875,
+    "macro avg": {
+      "precision": 0.9463198154255895,
+      "recall": 0.9851222980834938,
+      "f1-score": 0.9632125305723991,
+      "support": 480.0
+    },
+    "weighted avg": {
+      "precision": 0.9884177299308878,
+      "recall": 0.9875,
+      "f1-score": 0.9877125993062549,
+      "support": 480.0
+    }
+  },
+  "features": [
+    "typing_speed_wpm",
+    "avg_pause_ms",
+    "backspace_rate",
+    "rewrite_frequency",
+    "focus_loss_events",
+    "tab_switch_count",
+    "question_time_sec",
+    "hesitation_index",
+    "confidence_score",
+    "struggle_score",
+    "focus_score"
+  ]
+}

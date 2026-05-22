@@ -1,0 +1,492 @@
+{
+  "hr": [
+    {
+      "id": "hr_001",
+      "question": "Tell me about yourself.",
+      "difficulty": "easy",
+      "category": "personal"
+    },
+    {
+      "id": "hr_002",
+      "question": "Why should we hire you?",
+      "difficulty": "easy",
+      "category": "motivation"
+    },
+    {
+      "id": "hr_003",
+      "question": "What are your strengths and weaknesses?",
+      "difficulty": "easy",
+      "category": "personal"
+    },
+    {
+      "id": "hr_004",
+      "question": "Describe yourself in 3 words.",
+      "difficulty": "easy",
+      "category": "personal"
+    },
+    {
+      "id": "hr_005",
+      "question": "Where do you see yourself in 5 years?",
+      "difficulty": "medium",
+      "category": "career_goals"
+    },
+    {
+      "id": "hr_006",
+      "question": "Why do you want to join this company?",
+      "difficulty": "medium",
+      "category": "motivation"
+    },
+    {
+      "id": "hr_007",
+      "question": "Tell me about a challenge you faced.",
+      "difficulty": "medium",
+      "category": "behavioral"
+    },
+    {
+      "id": "hr_008",
+      "question": "How do you handle pressure?",
+      "difficulty": "medium",
+      "category": "personal"
+    },
+    {
+      "id": "hr_009",
+      "question": "What motivates you?",
+      "difficulty": "easy",
+      "category": "motivation"
+    },
+    {
+      "id": "hr_010",
+      "question": "Are you a team player?",
+      "difficulty": "easy",
+      "category": "teamwork"
+    }
+  ],
+  "technical": [
+    {
+      "id": "tech_001",
+      "question": "What is the difference between C and Java?",
+      "difficulty": "easy",
+      "category": "programming"
+    },
+    {
+      "id": "tech_002",
+      "question": "What is Object-Oriented Programming (OOP) and what are its core pillars?",
+      "difficulty": "easy",
+      "category": "programming"
+    },
+    {
+      "id": "tech_003",
+      "question": "Explain the concept of inheritance and its different types.",
+      "difficulty": "easy",
+      "category": "programming"
+    },
+    {
+      "id": "tech_004",
+      "question": "What is a Database Management System (DBMS)?",
+      "difficulty": "easy",
+      "category": "database"
+    },
+    {
+      "id": "tech_005",
+      "question": "What is the difference between SQL and NoSQL databases?",
+      "difficulty": "medium",
+      "category": "database"
+    },
+    {
+      "id": "tech_006",
+      "question": "What is normalization and why do we use it in databases?",
+      "difficulty": "medium",
+      "category": "database"
+    },
+    {
+      "id": "tech_007",
+      "question": "What is an API and how does it work?",
+      "difficulty": "easy",
+      "category": "web"
+    },
+    {
+      "id": "tech_008",
+      "question": "What is cloud computing?",
+      "difficulty": "easy",
+      "category": "general"
+    },
+    {
+      "id": "tech_009",
+      "question": "What is the difference between a stack and a queue?",
+      "difficulty": "easy",
+      "category": "dsa"
+    },
+    {
+      "id": "tech_010",
+      "question": "What is an operating system and what are its main functions?",
+      "difficulty": "easy",
+      "category": "os"
+    },
+    {
+      "id": "tech_011",
+      "question": "Explain the differences between arrays and linked lists.",
+      "difficulty": "medium",
+      "category": "dsa"
+    },
+    {
+      "id": "tech_012",
+      "question": "What is React and why is it popular?",
+      "difficulty": "medium",
+      "category": "frontend"
+    },
+    {
+      "id": "tech_013",
+      "question": "What is a REST API?",
+      "difficulty": "medium",
+      "category": "web"
+    }
+  ],
+  "behavioral": [
+    {
+      "id": "beh_001",
+      "question": "Tell me about a time you solved a difficult problem.",
+      "difficulty": "medium",
+      "category": "problem_solving"
+    },
+    {
+      "id": "beh_002",
+      "question": "Describe a conflict you had in a team and how you resolved it.",
+      "difficulty": "medium",
+      "category": "teamwork"
+    },
+    {
+      "id": "beh_003",
+      "question": "How do you manage tight deadlines and prioritize your work?",
+      "difficulty": "medium",
+      "category": "time_management"
+    },
+    {
+      "id": "beh_004",
+      "question": "Describe a leadership experience you had, either in college or a project.",
+      "difficulty": "medium",
+      "category": "leadership"
+    },
+    {
+      "id": "beh_005",
+      "question": "Tell me about a failure you experienced and what you learned from it.",
+      "difficulty": "medium",
+      "category": "resilience"
+    },
+    {
+      "id": "beh_006",
+      "question": "How do you react to criticism or negative feedback?",
+      "difficulty": "medium",
+      "category": "growth_mindset"
+    },
+    {
+      "id": "beh_007",
+      "question": "Describe a difficult decision you had to make recently.",
+      "difficulty": "hard",
+      "category": "decision_making"
+    }
+  ],
+  "communication": [
+    {
+      "id": "com_001",
+      "question": "Introduce yourself and talk about your educational background.",
+      "difficulty": "easy",
+      "category": "speaking"
+    },
+    {
+      "id": "com_002",
+      "question": "Describe your hometown and what it is famous for.",
+      "difficulty": "easy",
+      "category": "speaking"
+    },
+    {
+      "id": "com_003",
+      "question": "Talk about your hobbies and how you spend your free time.",
+      "difficulty": "easy",
+      "category": "speaking"
+    },
+    {
+      "id": "com_004",
+      "question": "Explain your final year project in simple words.",
+      "difficulty": "medium",
+      "category": "speaking"
+    },
+    {
+      "id": "com_005",
+      "question": "Describe your biggest achievement so far.",
+      "difficulty": "easy",
+      "category": "speaking"
+    },
+    {
+      "id": "com_006",
+      "question": "Explain your SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis.",
+      "difficulty": "medium",
+      "category": "speaking"
+    },
+    {
+      "id": "com_007",
+      "question": "Talk about your leadership experience or participation in extracurricular activities.",
+      "difficulty": "medium",
+      "category": "speaking"
+    },
+    {
+      "id": "com_008",
+      "question": "Describe a difficult situation you faced and how you overcame it.",
+      "difficulty": "medium",
+      "category": "speaking"
+    },
+    {
+      "id": "com_009",
+      "question": "Tell us about your short-term and long-term goals.",
+      "difficulty": "easy",
+      "category": "speaking"
+    }
+  ],
+  "mock_hr": [
+    {
+      "id": "mock_hr_001",
+      "question": "Introduce yourself to the recruitment team.",
+      "difficulty": "easy",
+      "category": "mock_personal"
+    },
+    {
+      "id": "mock_hr_002",
+      "question": "What makes you stand out from other freshers applying today?",
+      "difficulty": "easy",
+      "category": "mock_motivation"
+    },
+    {
+      "id": "mock_hr_003",
+      "question": "Can you describe a situation where you had to quickly adapt to a major change?",
+      "difficulty": "medium",
+      "category": "mock_behavioral"
+    },
+    {
+      "id": "mock_hr_004",
+      "question": "What are your hobbies and how do they help you stay productive?",
+      "difficulty": "easy",
+      "category": "mock_personal"
+    },
+    {
+      "id": "mock_hr_005",
+      "question": "Where do you want to see your career heading in the next three to five years?",
+      "difficulty": "medium",
+      "category": "mock_goals"
+    },
+    {
+      "id": "mock_hr_006",
+      "question": "Why did you choose our company for your career start?",
+      "difficulty": "medium",
+      "category": "mock_motivation"
+    },
+    {
+      "id": "mock_hr_007",
+      "question": "Tell me about a time you made a mistake during a college lab or group project.",
+      "difficulty": "medium",
+      "category": "mock_behavioral"
+    },
+    {
+      "id": "mock_hr_008",
+      "question": "How do you handle disagreement when working with other students?",
+      "difficulty": "medium",
+      "category": "mock_teamwork"
+    },
+    {
+      "id": "mock_hr_009",
+      "question": "What kind of work environment allows you to perform at your best?",
+      "difficulty": "easy",
+      "category": "mock_personal"
+    },
+    {
+      "id": "mock_hr_010",
+      "question": "What does success mean to you?",
+      "difficulty": "easy",
+      "category": "mock_personal"
+    }
+  ],
+  "mock_technical": [
+    {
+      "id": "mock_tech_001",
+      "question": "What is the difference between a compiler and an interpreter?",
+      "difficulty": "easy",
+      "category": "mock_programming"
+    },
+    {
+      "id": "mock_tech_002",
+      "question": "Explain the difference between GET and POST HTTP requests.",
+      "difficulty": "easy",
+      "category": "mock_web"
+    },
+    {
+      "id": "mock_tech_003",
+      "question": "What is a primary key and a foreign key in a relational database?",
+      "difficulty": "easy",
+      "category": "mock_database"
+    },
+    {
+      "id": "mock_tech_004",
+      "question": "What is virtual memory and how does it help the operating system?",
+      "difficulty": "medium",
+      "category": "mock_os"
+    },
+    {
+      "id": "mock_tech_005",
+      "question": "Explain the difference between a class and an object in Object-Oriented Programming.",
+      "difficulty": "easy",
+      "category": "mock_programming"
+    },
+    {
+      "id": "mock_tech_006",
+      "question": "What is method overloading and method overriding? Give a simple example.",
+      "difficulty": "medium",
+      "category": "mock_programming"
+    },
+    {
+      "id": "mock_tech_007",
+      "question": "What is a pointer in C, and how does it differ from a reference in C++ or Java?",
+      "difficulty": "medium",
+      "category": "mock_programming"
+    },
+    {
+      "id": "mock_tech_008",
+      "question": "Explain the concept of local variables vs global variables.",
+      "difficulty": "easy",
+      "category": "mock_programming"
+    },
+    {
+      "id": "mock_tech_009",
+      "question": "What is the difference between linear search and binary search?",
+      "difficulty": "easy",
+      "category": "mock_dsa"
+    },
+    {
+      "id": "mock_tech_010",
+      "question": "What is MVC architecture and why is it widely used?",
+      "difficulty": "medium",
+      "category": "mock_architecture"
+    }
+  ],
+  "mock_behavioral": [
+    {
+      "id": "mock_beh_001",
+      "question": "Tell me about a time you had to work under a very strict deadline.",
+      "difficulty": "medium",
+      "category": "mock_pressure"
+    },
+    {
+      "id": "mock_beh_002",
+      "question": "How do you handle a situation where a group member is not doing their share of work?",
+      "difficulty": "medium",
+      "category": "mock_teamwork"
+    },
+    {
+      "id": "mock_beh_003",
+      "question": "Describe a goal you set for yourself recently and how you achieved it.",
+      "difficulty": "easy",
+      "category": "mock_goals"
+    },
+    {
+      "id": "mock_beh_004",
+      "question": "Tell me about a time when you had to learn a new skill or tool quickly.",
+      "difficulty": "medium",
+      "category": "mock_learning"
+    },
+    {
+      "id": "mock_beh_005",
+      "question": "Describe a time you convinced someone to see things from your perspective.",
+      "difficulty": "medium",
+      "category": "mock_influence"
+    },
+    {
+      "id": "mock_beh_006",
+      "question": "Tell me about a time you had to handle multiple tasks at once during college.",
+      "difficulty": "medium",
+      "category": "mock_time_management"
+    },
+    {
+      "id": "mock_beh_007",
+      "question": "Describe a time you went above and beyond to complete a project successfully.",
+      "difficulty": "medium",
+      "category": "mock_ownership"
+    },
+    {
+      "id": "mock_beh_008",
+      "question": "How do you react when plans change unexpectedly?",
+      "difficulty": "easy",
+      "category": "mock_resilience"
+    },
+    {
+      "id": "mock_beh_009",
+      "question": "Tell me about a time you helped a teammate who was struggling.",
+      "difficulty": "easy",
+      "category": "mock_teamwork"
+    },
+    {
+      "id": "mock_beh_010",
+      "question": "Describe a time you had to work with highly ambiguous instructions.",
+      "difficulty": "hard",
+      "category": "mock_ambiguity"
+    }
+  ],
+  "mock_communication": [
+    {
+      "id": "mock_com_001",
+      "question": "Introduce your favorite tech role model and explain why they inspire you.",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_002",
+      "question": "Describe your college campus and highlight what you like most about it.",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_003",
+      "question": "What is your favorite book or movie, and how would you summarize it to a friend?",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_004",
+      "question": "If you could visit any country in the world, where would you go and why?",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_005",
+      "question": "Explain a hobby you enjoy and why you think others should try it.",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_006",
+      "question": "What was the most challenging topic you studied in college, and how did you master it?",
+      "difficulty": "medium",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_007",
+      "question": "Describe a normal day in your life during exam preparation.",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_008",
+      "question": "Talk about a recent tech news story or gadget that caught your attention.",
+      "difficulty": "medium",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_009",
+      "question": "How do you define effective communication in a remote development team?",
+      "difficulty": "medium",
+      "category": "mock_speaking"
+    },
+    {
+      "id": "mock_com_010",
+      "question": "Describe what kind of projects you would love to work on in your first job.",
+      "difficulty": "easy",
+      "category": "mock_speaking"
+    }
+  ]
+}
